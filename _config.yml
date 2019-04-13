@@ -291,17 +291,6 @@ defaults:
       author_profile: false
       share: true
 
- # _cuisine
-  - scope:
-      path: ""
-      type: cuisine
-    values:
-      layout: single
-      author_profile: false
-      share: true
-
 collections:
   international_food_challenge:
-    output: true
-  cuisine:
     output: true

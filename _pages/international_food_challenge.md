@@ -1,14 +1,15 @@
 ---
 permalink: "/international_food_challenge/"
 ---
+
+
 ## International Food Challenge!
 
-<ul>
-  {% for cuisine in site.interional_food_challenge %}
-    <li>
-      <a href="{{ cuisine.url }}">{{ cuisine.title }}</a>
-      - {{ cuisine.headline }}
-    </li>
-  {% endfor %}
-</ul>
+{% for cuisine in site.international_food_challenge %}
+  <li>
+    <a class="post-link" href="{{ cuisine.url | prepend: site.baseurl }}">Cuisine {{ cuisine.cuisine }}</a>
+  </li>
+ {% include feature_row_posts feature_row= cuisine.feature_row %}
+
+{% endfor %}
 
