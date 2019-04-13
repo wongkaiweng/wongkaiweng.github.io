@@ -1,6 +1,6 @@
 ---
 cuisine: thai
-week_number: 15
+week_number: 1
 week: April 8th 2019
 feature_row:
   - image_path: assets/images/international_food_challenge/thai_ribs.jpg
@@ -29,6 +29,6 @@ feature_row:
     url: "https://www.thespruceeats.com/thai-green-mango-salad-recipe-3217675"
     btn_label: "Recipe Here"
     btn_class: "btn--primary"
-important_ingredients: Lemongrass, Fish Sauce, Thai Chili, Thick Coconut Milk
+core_ingredients: Lemongrass, Fish Sauce, Thai Chili, Thick Coconut Milk
 notes:
 ---

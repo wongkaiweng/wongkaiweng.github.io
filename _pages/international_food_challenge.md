@@ -17,7 +17,7 @@ Hi! This is where I record my challenge to cook a different cuisine every week.
   </div>
   <b style="color: rgb(212, 106, 106)">+++++++++++++++++++++++++++++++++++++++++++++++</b>
 
-  **Important Ingredients**: {{cuisine.important_ingredients}}
+  **Core Ingredients**: {{cuisine.core_ingredients}}
 
   {{cuisine.notes}}
 
