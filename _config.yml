@@ -274,7 +274,6 @@ defaults:
       share: true
       related: true
 
-defaults:
   # _pages
   - scope:
       path: ""
@@ -283,3 +282,29 @@ defaults:
       layout: single
       author_profile: true
 
+  # _international_food_challenge
+  - scope:
+      path: ""
+      type: international_food_challenge
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+ # _cuisine
+  - scope:
+      path: ""
+      type: cuisine
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+collections:
+  international_food_challenge:
+    output: true
+    #permalink: /:collection/:path/
+    #permalink: :collection/:name
+    #permalink: international_food_challenge/:name
+  cuisine:
+    output: true

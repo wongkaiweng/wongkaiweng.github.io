@@ -1,0 +1,4 @@
+---
+cuisine: thai
+layout: cuisine
+---

@@ -1,0 +1,15 @@
+---
+layout: single
+---
+
+<h1>Cuisine {{ page.cuisine }}</h1>
+
+{% for food in site.international_food_challenge %}
+{% if food.cuisine == page.cuisine %}
+{{ food.output }}
+<li>
+  <a href="{{ food.url }}">{{ food.title }}</a>
+  - {{ food.headline }}
+</li>
+{% endif %}
+{% endfor %}

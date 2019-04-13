@@ -1,0 +1,4 @@
+---
+cuisine: spanish
+layout: cuisine
+---
