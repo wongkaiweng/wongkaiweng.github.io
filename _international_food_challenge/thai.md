@@ -30,5 +30,6 @@ feature_row:
     url: "https://www.thespruceeats.com/thai-green-mango-salad-recipe-3217675"
     btn_label: "Recipe Here"
     btn_class: "btn--primary"
+important_ingredients: Lemongrass, Fish Sauce, Thai Chili, Thick Coconut Milk
+notes:
 ---
-
