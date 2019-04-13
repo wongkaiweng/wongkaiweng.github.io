@@ -6,10 +6,8 @@ layout: single
 
 {% for food in site.international_food_challenge %}
 {% if food.cuisine == page.cuisine %}
-{{ food.output }}
-<li>
-  <a href="{{ food.url }}">{{ food.title }}</a>
-  - {{ food.headline }}
+ <li>
+    <a class="post-link" href="{{ food.url | prepend: site.baseurl }}">{{ food.title }}</a>
 </li>
 {% endif %}
 {% endfor %}
