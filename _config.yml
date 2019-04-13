@@ -303,8 +303,5 @@ defaults:
 collections:
   international_food_challenge:
     output: true
-    #permalink: /:collection/:path/
-    #permalink: :collection/:name
-    #permalink: international_food_challenge/:name
   cuisine:
     output: true

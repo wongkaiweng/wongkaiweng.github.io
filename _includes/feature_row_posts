@@ -1,7 +1,6 @@
 {% assign feature_row = include.feature_row %}
 
 <div class="feature__wrapper">
-  We are here
   {% for f in feature_row %}
 
     {% if f.url contains "://" %}
@@ -10,7 +9,7 @@
       {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="feature__item_4{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
