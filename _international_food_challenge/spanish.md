@@ -1,6 +1,7 @@
 ---
 cuisine: spanish
-layout: cuisine
+week_number: 16
+week: April 15th 2019
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "Thai Ribs Sticky-Tangy"

@@ -287,10 +287,9 @@ defaults:
       path: ""
       type: international_food_challenge
     values:
-      layout: single
       author_profile: false
       share: true
 
 collections:
   international_food_challenge:
-    output: true
+    output: false
