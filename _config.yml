@@ -274,7 +274,6 @@ defaults:
       share: true
       related: true
 
-defaults:
   # _pages
   - scope:
       path: ""
@@ -283,3 +282,14 @@ defaults:
       layout: single
       author_profile: true
 
+  # _international_food_challenge
+  - scope:
+      path: ""
+      type: international_food_challenge
+    values:
+      author_profile: false
+      share: true
+
+collections:
+  international_food_challenge:
+    output: false
