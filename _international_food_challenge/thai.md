@@ -30,5 +30,5 @@ feature_row:
     btn_label: "Recipe Here"
     btn_class: "btn--primary"
 core_ingredients: Lemongrass, Fish Sauce, Thai Chili, Thick Coconut Milk
-notes:
+notes: Thai cooking places emphasis on lightly prepared dishes with strong aromatic components and a spicy edge. (Wikipedia)
 ---
