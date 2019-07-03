@@ -293,3 +293,5 @@ defaults:
 collections:
   international_food_challenge:
     output: false
+
+theme: jekyll-theme-minimal
