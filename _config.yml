@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Catherine Wong"
 title_separator          : "-"
 name                     : "Catherine Wong"
-description              : "Catherine Wong | Robotics Engineer at Iron Ox"
+description              : "Catherine Wong | Roboticist at Auris Health"
 url                      : "http://wongkaiweng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "wongkaiweng/wongkaiweng.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : 
   avatar           : "/assets/images/Catherine.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Robotics Engineer at Iron Ox"
+  bio              : "Roboticist at Auris Health"
   location         : 
   email            : kw358 AT cornell DOT edu
   uri              :
