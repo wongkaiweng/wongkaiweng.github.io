@@ -32,3 +32,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Install for minial mistakes to prevent include error
 gem 'jekyll-include-cache'
+gem "webrick", "~> 1.8"
