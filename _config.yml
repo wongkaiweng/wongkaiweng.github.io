@@ -16,10 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Catherine Wong"
+title                    : "Catherine Wong | Roboticist"
 title_separator          : "-"
+# subtitle                 : "Roboticist"
 name                     : "Catherine Wong"
-description              : "Catherine Wong | Roboticist at Aescape"
+description              : "Catherine Wong | Roboticist"
 url                      : "http://wongkaiweng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "wongkaiweng/wongkaiweng.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +103,7 @@ analytics:
 author:
   name             : 
   avatar           : "/assets/images/Catherine.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Roboticist at Aescape"
+  bio              : "Robots in everyday life."
   location         : 
   email            : kw358 AT cornell DOT edu
   uri              :
