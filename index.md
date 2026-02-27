@@ -12,7 +12,7 @@ developing strategies for offline prevention and real-time online replanning to 
 
 *I am currently on sabbatical, exploring new perspectives in the field.*
 
-## Other Previous Affiliations
+## Previous Affiliations
 * Roboticist at [Aescape](https://www.aescape.co/)
 * Roboticist at [Auris Health](https://www.aurishealth.com/)
 * Roboticist at Iron Ox. Now [Inevitable Tech](https://inevitabletech.com/)
